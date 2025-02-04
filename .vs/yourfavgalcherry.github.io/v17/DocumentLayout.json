@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_posts\\2025.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\2025.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_plugins\\wather-patch.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_plugins\\wather-patch.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_posts\\.placeholder||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_posts\\.placeholder||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\.github\\workflows\\pages-deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\pages-deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\tools\\run.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tools\\run.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_plugins\\posts-lastmod-hook.rb||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_plugins\\posts-lastmod-hook.rb||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_config.yml",
+              "DocumentMoniker": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_config.yml",
+              "RelativeDocumentMoniker": "_config.yml",
+              "ToolTip": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_config.yml",
+              "RelativeToolTip": "_config.yml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-04T15:06:05.104Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2025.md",
+              "DocumentMoniker": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_posts\\2025.md",
+              "RelativeDocumentMoniker": "_posts\\2025.md",
+              "ToolTip": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_posts\\2025.md",
+              "RelativeToolTip": "_posts\\2025.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-04T16:12:14.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "run.sh",
+              "DocumentMoniker": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\tools\\run.sh",
+              "RelativeDocumentMoniker": "tools\\run.sh",
+              "ToolTip": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\tools\\run.sh",
+              "RelativeToolTip": "tools\\run.sh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-04T16:11:25.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pages-deploy.yml",
+              "DocumentMoniker": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\.github\\workflows\\pages-deploy.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\pages-deploy.yml",
+              "ToolTip": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\.github\\workflows\\pages-deploy.yml",
+              "RelativeToolTip": ".github\\workflows\\pages-deploy.yml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-04T16:11:23.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-04T16:11:19.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-04T16:08:36.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".placeholder",
+              "DocumentMoniker": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_posts\\.placeholder",
+              "RelativeDocumentMoniker": "_posts\\.placeholder",
+              "ToolTip": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_posts\\.placeholder",
+              "RelativeToolTip": "_posts\\.placeholder",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-04T16:05:17.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wather-patch.rb",
+              "DocumentMoniker": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_plugins\\wather-patch.rb",
+              "RelativeDocumentMoniker": "_plugins\\wather-patch.rb",
+              "ToolTip": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_plugins\\wather-patch.rb",
+              "RelativeToolTip": "_plugins\\wather-patch.rb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002489|",
+              "WhenOpened": "2025-02-04T15:55:49.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "posts-lastmod-hook.rb",
+              "DocumentMoniker": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_plugins\\posts-lastmod-hook.rb",
+              "RelativeDocumentMoniker": "_plugins\\posts-lastmod-hook.rb",
+              "ToolTip": "C:\\Users\\chery\\Desktop\\Blog\\yourfavgalcherry.github.io\\_plugins\\posts-lastmod-hook.rb",
+              "RelativeToolTip": "_plugins\\posts-lastmod-hook.rb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002489|",
+              "WhenOpened": "2025-02-04T15:55:42.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
